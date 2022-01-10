@@ -1,2 +1,2 @@
 # Modern Digital Clock 🕑
-A simple digital clock made with Godot Engine.
+A simple RGB digital clock made with Godot Engine.
